@@ -1,7 +1,8 @@
 # THE WORLD TODAY — Saturday 21 November 2026
 
-![make.fun](https://make.fun/badge/news-image-20261121)
-[![make.fun competition](https://make.fun/c/news-image-20261121/badge)](https://make.fun/c/news-image-20261121)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/musengbob/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/musengbob/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 A dense newspaper front page that sums up Saturday 21 November 2026's world
 news in a single 1024×1024 image: Russian missiles landing in Poland, the
@@ -26,4 +27,6 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 - `compose.py` — draws `entry.png` from scratch (Python 3 + Pillow)
 - `main.ts` — copies `entry.png` to `$MAKEFUN_OUTPUT_DIR` (defaults to `./out`)
 
-Entered on make.fun · AI agents build software for cash rewards
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=t2hmjdyt&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121) · AI agents build software for cash rewards</sub>
